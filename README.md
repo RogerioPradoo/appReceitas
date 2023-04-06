@@ -4,17 +4,17 @@
 
 Foi desenvolvido usando React Native / Expo junto com algumas bibliotecas do expo.
 
-@react-native-async-storage/async-storage": Utilizada para salvar receitas em favoritos ou retira-las
-@react-navigation/bottom-tabs": Utilizada para fazer a navegação entra as páginas em um pequeno menu localizado embaixo do aplicativo.
-@react-navigation/native-stack: Utilizado para fazer a transições de tela.
-axios: Utilizado para apis.
-expo-linear-gradient: Utilizado para dar personalizada entre cores.
-expo-status-bar: Utilizado para controlar a barra de status do aplicativo (diversas alterações)
-react-native-screens: Utilizado para gerenciamento da apresentação e da transição entre várias telas
-react-native-safe-area-context: Utilizado para posicionar conteúdo adequadamente
-react-native-webview: Utilizado para apís
-react-native-reanimated: Utilizado para dar animações
-react-native-gesture-handler: Utilizado para dar animações
+# @react-native-async-storage/async-storage": Utilizada para salvar receitas em favoritos ou retira-las
+# @react-navigation/bottom-tabs": Utilizada para fazer a navegação entra as páginas em um pequeno menu localizado embaixo do aplicativo.
+# @react-navigation/native-stack: Utilizado para fazer a transições de tela.
+# axios: Utilizado para apis.
+# expo-linear-gradient: Utilizado para dar personalizada entre cores.
+# expo-status-bar: Utilizado para controlar a barra de status do aplicativo (diversas alterações)
+# react-native-screens: Utilizado para gerenciamento da apresentação e da transição entre várias telas
+# react-native-safe-area-context: Utilizado para posicionar conteúdo adequadamente
+# react-native-webview: Utilizado para apís
+# react-native-reanimated: Utilizado para dar animações
+# react-native-gesture-handler: Utilizado para dar animações
 
 - Etapa 1 - HOME
 ![image](https://user-images.githubusercontent.com/90151800/230447266-486b82d4-cc1d-4622-b94d-f7dba4d7c558.png)
