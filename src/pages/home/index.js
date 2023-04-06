@@ -70,7 +70,7 @@ export function Home() {
 
             <View style={styles.forme}>
                 <TextInput
-                    placeholder='Digite o nome da comida...'
+                    placeholder='Digite o nome da receita...'
                     style={styles.input}
                     value={input}
                     onChangeText={(text) => setInput(text)}

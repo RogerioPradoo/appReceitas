@@ -436,6 +436,343 @@
           "text": "Deixe esquentar um pouco para derreter o queijo."
         }
       ]
+    },
+    {
+      "id": "8",
+      "name":  "Bolo de fubá",
+      "total_ingredients": "8",
+      "time": 45,
+      "cover": "https://s2.glbimg.com/GDADinKyW8a4LTtwZyXlG1OiP_E=/0x0:1280x800/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/w/I/HzhyCkTqm1UoDynv8XDQ/bolo-de-fuba-fofino.jpg",
+      "video":"https://youtu.be/rJTG6Cg2f8Q",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "colher de sopa de manteiga sem sal",
+          "amount": "1"
+        },
+        {
+          "id": "2",
+          "name": "colher de sopa mais 1 xícara de chá de farinha de trigo",
+          "amount": "1"
+        },
+        {
+          "id": "3",
+          "name": "Ovos",
+          "amount": "3"
+        },
+        {
+          "id": "4",
+          "name": "1/2 xícara de chá de açúcar",
+          "amount": "1"
+        },
+        {
+          "id": "5",
+          "name": "xícara de chá de óleo vegetal",
+          "amount": "3/4"
+        },
+        {
+          "id": "6",
+          "name": "xícara de chá de leite integral",
+          "amount": "3/4"
+        },
+        {
+          "id": "6",
+          "name": "xícara de chá de fubá",
+          "amount": "3/4"
+        },
+        {
+          "id": "6",
+          "name": "xícara de chá de amido de milho",
+          "amount": "1/2"
+        },
+        {
+          "id": "6",
+          "name": "colher de sopa de fermento químico em pó (fermento para bolo)",
+          "amount": "1"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Com a ajuda de um papel, unte a forma com a manteiga e depois enfarinhe com uma colher de sopa de farinha de trigo. Reserve."
+        },
+        {
+          "id": "2",
+          "text": "Bata em um liquidificador os ovos, o açúcar, o óleo e o leite por 2 minutos."
+        },
+        {
+          "id": "3",
+          "text": "Adicione o fubá e o amido de milho e bata por mais 2 minutos."
+        },
+        {
+          "id": "4",
+          "text": "Adicione a farinha de trigo e o fermento em pó, e bata apenas para misturar."
+        },
+        {
+          "id": "5",
+          "text": "Despeje a massa na forma untada, enfarinhada e asse em forno preaquecido a 180 ºC por 25 a 30 minutos."
+        },
+        {
+          "id": "6",
+          "text": "Espere esfriar para desenformar e sirva!"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name":  "Bolo de chocolate",
+      "total_ingredients": "8",
+      "time": 60,
+      "cover": "data:image/jpeg;base64,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",
+      "video":"https://youtu.be/DmoLLI-tIDA",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "xícara de chá de chocolate em pó 50% cacau",
+          "amount": "1"
+        },
+        {
+          "id": "2",
+          "name": "água morna",
+          "amount": "300ml"
+        },
+        {
+          "id": "3",
+          "name": "Ovos",
+          "amount": "3"
+        },
+        {
+          "id": "4",
+          "name": "1/2 xícara de chá de açúcar",
+          "amount": "1"
+        },
+        {
+          "id": "5",
+          "name": "xícara de chá de óleo",
+          "amount": "3/4"
+        },
+        {
+          "id": "6",
+          "name": "xícaras de chá de farinha de trigo (tradicional sem fermento)",
+          "amount": "2 e 1/2"
+        },
+        {
+          "id": "7",
+          "name": "xícara de chá de leite integral (calda)",
+          "amount": "1/2"
+        },
+        {
+          "id": "8",
+          "name": "colheres de sopa de açúcar (calda)",
+          "amount": "6"
+        },
+        {
+          "id": "9",
+          "name": "colheres de sopa de chocolate em pó 50% cacau (calda)",
+          "amount": "3"
+        },
+        {
+          "id": "10",
+          "name": "colher de sopa de manteiga (calda)",
+          "amount": "1"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Em um recipiente, coloque os ovos, o açúcar, misture bem com um fouet e bata levemente até formar um creme mais claro."
+        },
+        {
+          "id": "2",
+          "text": "Adicione o óleo, gradualmente o chocolate em pó e vá misturando."
+        },
+        {
+          "id": "3",
+          "text": "Acrescente metade da água morna e misture até que o chocolate esteja incorporado."
+        },
+        {
+          "id": "4",
+          "text": "Peneire a farinha e vá misturando na massa."
+        },
+        {
+          "id": "5",
+          "text": "Coloque o restante da água e misture até ficar homogêneo e liso."
+        },
+        {
+          "id": "6",
+          "text": "Finalize com o fermento, o bicarbonato e misture até incorporar."
+        },{
+          "id": "7",
+          "text": "Despeje em uma forma untada, polvilhada com chocolate em pó e leve ao forno preaquecido a 180 ºC por cerca de 40 minutos, ou até você espetar um palito no meio da massa e ele sair seco."
+        },
+        {
+          "id": "8",
+          "text": "Assim que o bolo assar, reúna todos os ingredientes da calda."
+        },
+        {
+          "id": "9",
+          "text": "Em uma panela, coloque o leite, o açúcar, o chocolate e a manteiga."
+        },
+        {
+          "id": "10",
+          "text": "Leve ao fogo médio, mexa sem parar por cerca de 5 minutos ou até tudo dissolver e ficar levemente encorpado."
+        },
+        {
+          "id": "11",
+          "text": "Com o bolo morno, despeje a calda (morna) por cima."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name":  "Smoothie de morango e banana",
+      "total_ingredients": "5",
+      "time": 15,
+      "cover": "https://www.comidaereceitas.com.br/wp-content/uploads/2021/10/smothie_morango_banana-780x489.jpg",
+      "video":"https://youtu.be/pOoBwcl2z90",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "banana",
+          "amount": "2"
+        },
+        {
+          "id": "2",
+          "name": "xícaras de chá de morangos",
+          "amount": "2"
+        },
+        {
+          "id": "3",
+          "name": "xícara de chá de iogurte natural bem consistente",
+          "amount": "1/2"
+        },
+        {
+          "id": "4",
+          "name": "Adoçante ou açúcar",
+          "amount": "A gosto"
+        },
+        {
+          "id": "5",
+          "name": "Gelo",
+          "amount": "A gosto"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Corte as bananas e os morangos em pedaços menores."
+        },
+        {
+          "id": "2",
+          "text": "Em um liquidificador, coloque a banana, o morango, o iogurte, o gelo e bata bem. Caso precise, adicione um pouco de água para ajudar a bater."
+        },
+        {
+          "id": "3",
+          "text": "Coloque o adoçante e bata somente para misturar."
+        },
+        {
+          "id": "4",
+          "text": "Transfira o smoothie para uma jarra ou copos."
+        },
+        {
+          "id": "5",
+          "text": "Sirva e aproveite!"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name":  "Chocolate quente",
+      "total_ingredients": "10",
+      "time": 30,
+      "cover": "https://www.receiteria.com.br/wp-content/uploads/chocolate-quente-09-730x548.jpeg",
+      "video":"https://youtu.be/JGvIqxnl96o",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "(Chantilly) xícara de chá de creme de leite fresco",
+          "amount": "1"
+        },
+        {
+          "id": "2",
+          "name": "(Chantilly) colheres de sobremesa de açúcar refinado",
+          "amount": "2"
+        },
+        {
+          "id": "3",
+          "name": "(Chantilly) colher de chá de essência ou pasta de baunilha",
+          "amount": "1"
+        },
+        {
+          "id": "4",
+          "name": "(chocolate quente) xícara de chá de leite integral",
+          "amount": "1 e 1/2"
+        },
+        {
+          "id": "5",
+          "name": "(chocolate quente) xícara de chá de creme de leite fresco",
+          "amount": "1/2"
+        },
+        {
+          "id": "6",
+          "name": "(chocolate quente) colheres de chá de açúcar mascavo (pode ser de coco, refinado ou demerara)",
+          "amount": "2"
+        },{
+          "id": "7",
+          "name": "(chocolate quente) colher de chá de café granulado solúvel",
+          "amount": "1/2"
+        },{
+          "id": "8",
+          "name": "(chocolate quente) gramas de chocolate em barra 70% picado",
+          "amount": "200g"
+        },{
+          "id": "9",
+          "name": "(chocolate quente) Pimenta caiena em pó a gosto",
+          "amount": "A gosto"
+        },{
+          "id": "5",
+          "name": "(chocolate quente) cachaça",
+          "amount": "50ml"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "(Chantilly) Em uma tigela com fuê, bata o creme de leite fresco bem gelado com o açúcar a baunilha."
+        },
+        {
+          "id": "2",
+          "text": "(Chantilly) Mexa com movimentos circulares rápidos até incorporar os ingredientes e chegar a consistência de pico mole."
+        },
+        {
+          "id": "3",
+          "text": "(Chantilly) Reserve para servir."
+        },
+        {
+          "id": "4",
+          "text": "(Chocolate Quente) Coloque em uma panela o leite, o creme de leite, o café e o açúcar."
+        },
+        {
+          "id": "5",
+          "text": "(Chocolate Quente) Assim que ferver, adicione o chocolate picado e desligue o fogo sem parar de mexer até que todo o chocolate derreta."
+        },
+        {
+          "id": "6",
+          "text": "(Chocolate Quente) Se necessário, esquente na hora de servir."
+        },
+        {
+          "id": "7",
+          "text": "(Chocolate Quente) Em seguida, acrescente a pimenta caiena e misture bem."
+        },
+        {
+          "id": "8",
+          "text": "(Chocolate Quente) Despeje a cachaça e ajuste os temperos a gosto."
+        },
+        {
+          "id": "9",
+          "text": "Coloque o chantilly para servir e bom apetite!"
+        }
+      ]
     }
   ]
 }
